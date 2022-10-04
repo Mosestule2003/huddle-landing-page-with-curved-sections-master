@@ -1,4 +1,4 @@
-# Frontend Mentor - Social proof section solution
+# Frontend Mentor - huddle-landing-page-with-curved-sections solution
 
 This is a solution to the [ Huddle landing page with curved sections](https://www.frontendmentor.io/challenges/Huddle landing page with curved sections). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
