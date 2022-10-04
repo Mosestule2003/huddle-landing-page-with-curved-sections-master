@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [](https://github.com/Mosestule2003/huddle-landing-page-with-curved-sections-master)
+- Live Site URL: [](https://mosestule2003.github.io/huddle-landing-page-with-curved-sections-master/)
 
 ## My process
 
